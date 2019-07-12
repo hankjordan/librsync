@@ -18,6 +18,7 @@ released under the [CC0 public domain dedication][CC0].
 
 [CC0]: http://creativecommons.org/publicdomain/zero/1.0/
 
+This is a fork of librsync that has a workaround that allows the .lib file to be generated on windows.
 
 ## Introduction
 
